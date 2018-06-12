@@ -1,2 +1,4 @@
-# berlinblockchainweek
-Public repository for events and proposals
+# BBWIP-001 
+
+Berlin Blockchainweek Improvement Proposals
+
