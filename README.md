@@ -1,4 +1,4 @@
-# BBWIP-001 
+# BBWP-001 
 
-Berlin Blockchainweek Improvement Proposals
+Berlin Blockchainweek Proposals
 
