@@ -1,4 +1,6 @@
 Blockchain Week Project Proposals
+=======
+# BBWP-001 
 
 +This repo is to collect and decide on project ideas. In order to submit a proposal use the [issues on this repo](https://github.com/ledgerz/project-ideas/issues).
 +
