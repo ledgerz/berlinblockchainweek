@@ -7,4 +7,4 @@ Accepted proposals will be moved to the BBWP directory and numbered based on the
 
 ## How to submit
 
-Create new issue on the [repository](https://github.com/ledgerz/berlinblockchainweek/issues) / add a note to the [project](https://github.com/ledgerz/berlinblockchainweek/projects/1) by providing the necessary information in [issue_template](https://github.com/ledgerz/berlinblockchainweek/issues/3) 
+Create new issue on the [repository](https://github.com/ledgerz/berlinblockchainweek/issues) or add a note to the [project](https://github.com/ledgerz/berlinblockchainweek/projects/1) by providing the necessary information in [issue_template](https://github.com/ledgerz/berlinblockchainweek/issues/3) 
