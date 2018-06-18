@@ -1,4 +1,4 @@
-Blockchain Week Project Proposals
+Berlin Blockchain Week Proposals
 =======
 # BBWP-001 
 
