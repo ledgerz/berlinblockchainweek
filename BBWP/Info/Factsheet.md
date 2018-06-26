@@ -30,6 +30,7 @@ There are no hard requirements on events, only that they are free or contributio
 
 ## Proposals Github repo:
 https://github.com/ledgerz/berlinblockchainweek/
+
 How to submit a proposal - in a nutshell:
 Create new issue on the [repository](https://github.com/ledgerz/berlinblockchainweek/issues) or add a note to the [project](https://github.com/ledgerz/berlinblockchainweek/projects/1) by providing the necessary information in [issue_template](https://github.com/ledgerz/berlinblockchainweek/issues/3) 
 
