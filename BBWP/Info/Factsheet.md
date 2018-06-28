@@ -53,9 +53,10 @@ Create new issue on the [repository](https://github.com/ledgerz/berlinblockchain
 8. U need something from the team: #venues #visiting visas
 9. Wanna volunteer in comms or twitter? #twitter
 10.  Schedule (updated constantly): https://docs.google.com/spreadsheets/d/1YgXR03oMZ7Sh3WPBhISNcevRzSc3ndlidHS18l_KB0c/edit#gid=0
-11.  New proposals please on Github
-12.  We got a voting mechanism via @loomio - submit your vote - ask the brickblock team
-13.  Don’t rely on single person, keep it transparent post in #general
+11. Venues (updated constantly): https://docs.google.com/spreadsheets/d/12uZvTZjWs7PC4OhL6uGsdf9RfKtQOYgpxDGW_tIkzB8/edit#gid=0
+12.  New proposals please on Github
+13.  We got a voting mechanism via @loomio - submit your vote - ask the brickblock team
+14.  Don’t rely on single person, keep it transparent post in #general
 
 ## Berlin Blockchain Week essentials:
 All conferences/events should be free of charge or invitees should pay a reasonable fee, according to the quality of the speakers and the responsible budgeting of the event. We won’t impose an “all free” week, but please charge responsibly.
@@ -66,7 +67,7 @@ Agnosticism, open-mindedness are encouraged, actually, they are obligatory.
 ## Reaching out to people:
 Ask in the #general slack. Even though more people are active than the others, nobody is responsible for answering questions for newcomers, so please make sure your message is in General, and not a private message. We all have opinions, and we are all in this together.
 
-##Important:
+## Important:
 ETHBerlin and Berlin Blockchain Week should not be confused. The ETHBerlin team depends on ETHGlobal and the organization is closed. 
 
 Berlin Blockchain Week is a movement, and it’s fully open. Any ETHBerlin decision is separate from Berlin Blockchain Week. The only way to reach ETHBerlin is via their email, which all the organization team reads: joinus@ethberlin.com
