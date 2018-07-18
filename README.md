@@ -1,9 +1,10 @@
 Berlin Blockchain Week Repository
 ======= 
 
-This repo is created to collaborate on the Berlin Blockchain Week open-source tasks. 
+This repo is created to collaborate on the Berlin Blockchain Week open-source tasks.
 
-## See our [Factsheet](https://github.com/ledgerz/berlinblockchainweek/blob/master/BBWP/Info/Factsheet.md) for details
+## Factsheet
+See our [Factsheet](https://github.com/ledgerz/berlinblockchainweek/blob/master/BBWP/Info/Factsheet.md) for getting an overview.
 
 ## Website project group 
 The [BBWW folder](https://github.com/ledgerz/berlinblockchainweek/tree/master/BBWW) is to coordinate the work on our website.
