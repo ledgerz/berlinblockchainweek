@@ -25,6 +25,36 @@ Footer navigation:
 2)  Privacy Policy
 3)  Terms of use
 
+Voting results:
+
+As the vote state we are selecting a static page as the one Christopher did with minimal changes to its design and feature wise. I tried to find out the minimal requirements and the scope. Please look at it and tell us where you can contribute and name the work package (wp-some number), pls correct me as well if anything is not right what I wrote or you have another opinion on it.
+
+Procedure:
+
+Please check if you can take over any task. Deliverables (design, code and text) should be send or coordinated via @hasan.oz and the published Github account as he suggested. If you decide to take over a task just add a comment I do this wpxy and take it and report your progress or just deliver. Once a week (every Thursday maybe starting from next week on we should check the status then – see wp16)
+
+Navigation
+
+Scope:
+
+- Links to the main sites
+
+Main navigation:
+
+1) Startsite with a short description about the Blockchain week 
+2) Conference page that shows all 7 venues, the conference main topic and links to each venue site
+3) 7 separate venue sections (as @christopher has build it in one) with short description / location – link to google maps / corresponding meetups per location / registration link per meetup / time of the meetup
+4) Sign up page for a new meetup at a venue - link to the google Form 
+one form to sign up for events
+5) One Link to twitter
+
+Footer navigation: 
+
+1)	Imprint
+2)	Privacy Policy
+3)	Terms of use
+
+
 Help needed: 
 
 • Person or entity for privacy policy and imprint (wp1)
@@ -44,7 +74,7 @@ Scope: Show the potential visitors where the venue is
 Help needed:
 
 • All confirmed locations (wp6)
-• Basic layout Design (wp7)
+• Basic layout Design (see wp3)
 
 #### Talks / Speakers
 
@@ -52,11 +82,11 @@ Scope: List of talks / meetups
 
 Help needed:
 
-• Content (wp8)
+• Content (see wp2)
 
-• Each venue pocs should ask for that info (wp9)
+• Each venue pocs should ask for that info (wp7)
 
-• Basic design (wp10)
+• Basic design (see wp3)
 
 #### Registration 
 
@@ -64,17 +94,17 @@ Scope: Register for the single meetups at the various venues. We assume that eac
 
 Help needed:
 
-• Each meetup organizer needs to give us the link to their Eventbrite meetup signup for that event and we need to collect these (wp11)
+• Each meetup organizer needs to give us the link to their Eventbrite meetup signup for that event and we need to collect these (wp8)
 
-• Basic design (wp12)
+• Basic design (see wp3)
 
 #### Privacy policy / Imprint
 
-Scope: Out of legal constraints we need to add that, here we also need to mention a person or an entity. (wp13)
+Scope: Out of legal constraints we need to add that, here we also need to mention a person or an entity. (see wp1)
 
 Help needed:
 
-• Content 
+• Content (see wp2)
 
 • Decision about who will be mentioned there, ideally it will be an association later that represents the Berlin Blockchain Week due to the time we should start like that.
 
@@ -84,7 +114,7 @@ Scope: We need to be capable of pointing it to a new IP of the hosting place whe
 
 Help needed: 
 
-• DNS settings once there is a new website or provide us with the FTP Access. (wp14)
+• DNS settings once there is a new website or provide us with the FTP Access. (wp5)
 
 #### Development
 
@@ -92,15 +122,15 @@ Scope: Setting up these pages, working with CSS maybe Twitter Bootstrap so we ha
 
 Help needed:
 
-• Design deliverable and layout (wp15)
+• Design deliverable and layout (see wp3)
 
-• Collecting all the needed content (wp16)
+• Collecting all the needed content (wp9 – guess getting all the wp2s might take some time)
 
-• Access to domain and webspace (see wp14)
+• Access to domain and webspace (see wp5)
 
-• Building the website – check - wp15 
+• Building the website – (see wp4) 
 
-• Coordination of all the workpackages and weekly status report (wp16)
+• Coordination of all the workpackages and weekly status report (wp10)
 
 #### Social media:
 
@@ -108,6 +138,6 @@ Scope: Promoting the Berlin Blockchain week on Twitter and reporting about the d
 
 Help needed: 
 
-• The design deliverables logo and corporate header for Twitter (wp17)
+• The design deliverables logo and corporate header for Twitter (see wp3)
 
-• Volunteers to start bringing that account to life. (wp18)
+• Volunteers to start bringing that account to life. (wp11)
